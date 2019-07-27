@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b8abefdd75ed2c945a67666ac43b8e52
+timeCreated: 1521374610
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Playtime Cyrillic
+  fontNames:
+  - Playtime Cyrillic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
